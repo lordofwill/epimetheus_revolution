@@ -1,7 +1,7 @@
 title = "Epimetheus Revolution"
 baseURL = "https://lordofwill.github.io/"
 languageCode = "en-us"
-theme = ["ananke"]
+theme = "ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
@@ -9,10 +9,11 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+canonifyURLs = false
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "Epimetheus Revolution"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -39,3 +40,6 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/lordofwill"
