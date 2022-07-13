@@ -1,9 +1,9 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
+description: "what we should think about numbers"
 featured_image: "https://user-images.githubusercontent.com/57059776/163908370-2e3486dc-a096-49cd-9e62-9ad9a3d5035a.png"
 tags: ["book about numbers", "Brian", "Kernighan"]
-title: "Defending_youreself_in_a_world_of_too_many_numbers"
+title: "Defending youreself in a world of too many numbers"
 ---
 
 ![mapOfDefendingNum](https://user-images.githubusercontent.com/57059776/163908370-2e3486dc-a096-49cd-9e62-9ad9a3d5035a.png)
