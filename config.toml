@@ -1,10 +1,10 @@
 title = "Epimetheus Revolution"
 baseURL = "https://lordofwill.github.io/"
-languageCode = "en-us"
+languageCode = "kr"
 theme = "ananke"
 resourceDir = "../resources"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "kr"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -14,13 +14,13 @@ canonifyURLs = false
 [languages]
   [languages.en]
     title = "Epimetheus Revolution"
-    weight = 1
+    weight = 2
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
-    title = "Ananke Fr"
-    weight = 2
-    contentDir = "content/fr"
+  [languages.kr]
+    title = "에피메테우스 혁명"
+    weight = 1
+    contentDir = "content/kr"
 
 [sitemap]
   changefreq = "monthly"
