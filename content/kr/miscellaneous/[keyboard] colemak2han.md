@@ -17,7 +17,7 @@ draft: true
 
 + vim변경파일을 이용하여 vscode내에서 vim extension에도 적용가능합니다.
 
-+ 제 [깃허브의 키보드 설정파일](https://github.com/lordofwill/miscellaneous/blob/main/For_colemak2Korean/README.md)에서\제공하는 파일을 적용방식에 맞게 세팅할 수 있습니다.
++ 제 [깃허브의 키보드 설정파일](https://github.com/lordofwill/miscellaneous/blob/main/For_colemak2Korean/README.md)에서 제공하는 파일을 적용방식에 맞게 세팅할 수 있습니다.
 
 ---
 
