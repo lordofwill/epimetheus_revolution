@@ -1,5 +1,5 @@
 ---
-title: "크롬 실행 시 창 크기 설정 방법"
+title: "[크롬] 초기 창 크기 설정 방법"
 date: 2022-10-16T16:23:47+09:00
 description: "크롬브라우저의 실행창 크기 설정 방법"
 featured_image: "https://user-images.githubusercontent.com/57059776/196023766-6da3739d-9223-43af-acae-67e4be1dd1e8.jpg"
